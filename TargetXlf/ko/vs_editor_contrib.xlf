@@ -7,8 +7,8 @@
         <target xml:lang="ko" state="needs-translation">Move Caret Left</target>
       </trans-unit>
       <trans-unit id="caret.moveRight">
-        <source xml:lang="en">Move Caret Right</source>
-        <target xml:lang="ko" state="needs-translation">Move Caret Right</target>
+        <source xml:lang="en">Move Caret Right -weetckt</source>
+        <target xml:lang="ko" state="needs-translation">Move Caret Right -weetckt</target>
       </trans-unit>
     </body>
   </file>
